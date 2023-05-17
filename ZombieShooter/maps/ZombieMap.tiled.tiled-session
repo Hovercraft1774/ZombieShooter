@@ -1,0 +1,28 @@
+{
+    "activeFile": "Tiled1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Kenny's Topdown Pack.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Tiled1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1474,
+                "y": 1530
+            }
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Tiled1.tmx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "Tiled1.tmx",
+        "Kenny's Topdown Pack.tsx"
+    ]
+}
